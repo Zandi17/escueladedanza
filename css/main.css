@@ -1,0 +1,26 @@
+.centro  {
+	text-align: center;
+	font-size: 100%;
+}
+.bailarines {
+	background: url(../img/dance_1.jpg);
+	background-size: cover
+	background-repeat: no-repeat;
+	height: 400px;
+}
+.boton {
+	padding: 10px 20px;
+	background-color: #fcba43;
+	border-radius: 5px
+}
+.oferta {
+	background: url(../img/textura_2.jpg);
+	background-size: cover
+	background-repeat: no-repeat;
+	height: 400px;
+}
+.boton1 {
+	padding: 10px 20px;
+	background-color: #fcba43;
+	border-radius: 5px
+}
